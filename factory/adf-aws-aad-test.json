@@ -1,0 +1,9 @@
+{
+	"name": "adf-aws-aad-test",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19cdb0fc-1213-492e-a87a-ae1e9382754a",
+		"tenantId": "cbc476bf-0742-4417-ba2b-cc749be6be03"
+	}
+}
